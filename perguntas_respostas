@@ -1,0 +1,159 @@
+Q: Quais são as quatro dimensões do gerenciamento de serviços segundo a ITIL 4?
+ A: Organizações e Pessoas; Informação e Tecnologia; Parceiros e Fornecedores; Fluxos e Processos de Valor.
+
+
+Q: Na ITIL 4, qual dimensão garante que a estrutura organizacional, papéis e comunicação estejam alinhados com a estratégia e o modelo operacional?
+ A: Organizações e Pessoas.
+
+
+Q: Na ITIL 4, qual dimensão foca na informação, conhecimento e tecnologia utilizados para fornecer e gerenciar serviços?
+ A: Informação e Tecnologia.
+
+
+Q: Na ITIL 4, qual dimensão aborda os relacionamentos com organizações externas envolvidas no ciclo de vida dos serviços?
+ A: Parceiros e Fornecedores.
+
+
+Q: Na ITIL 4, qual dimensão define atividades, fluxos de trabalho, controles e procedimentos para atingir objetivos acordados?
+ A: Fluxos e Processos de Valor.
+
+Q: Quais são as 6 atividades-chave da Cadeia de Valor segundo a ITIL 4?
+A: Engajar, Planejar, Projetar e Transicionar, Obter/Construir, Entregar e Suportar, Melhorar.
+
+Q: Na ITIL 4, qual atividade da cadeia de valor visa garantir bom relacionamento com stakeholders, capturando suas necessidades, expectativas e feedbacks com transparência?
+ A: Engajar (Engage)
+
+
+Q: Na ITIL 4, qual atividade da cadeia de valor estabelece uma visão clara do estado atual e futuro desejado, com diretrizes estratégicas para ações coordenadas?
+ A: Planejar (Plan)
+
+
+Q: Na ITIL 4, qual atividade da cadeia de valor projeta serviços e garante que possam entrar em operação de forma segura e eficaz, atendendo aos requisitos de valor?
+ A: Projetar e Transicionar (Design & Transition)
+
+
+Q: Na ITIL 4, qual atividade da cadeia de valor desenvolve ou adquire os componentes necessários como software, hardware, dados, conhecimento e infraestrutura?
+ A: Obter/Construir (Obtain/Build)
+
+
+Q: Na ITIL 4, qual atividade da cadeia de valor assegura que os serviços estejam ativos, estáveis e disponíveis para os usuários, com suporte adequado ao uso?
+ A: Entregar e Suportar (Deliver & Support)
+
+
+Q: Na ITIL 4, qual atividade da cadeia de valor identifica e implementa oportunidades de melhoria contínua nos serviços, práticas e produtos?
+ A: Melhorar (Improve)
+
+Q: Na ITIL 4, qual princípio orientador afirma que tudo o que a organização faz deve estar mapeado ao valor para as partes interessadas, incluindo a experiência de clientes e usuários?
+ A: Foco no valor
+
+
+Q: Na ITIL 4, qual princípio orientador recomenda não começar do zero e sim considerar o que já está disponível, investigando o estado atual diretamente?
+ A: Começar de onde você está
+
+
+Q: Na ITIL 4, qual princípio orientador sugere realizar o trabalho em partes menores, usando feedback contínuo para manter o foco mesmo em mudanças?
+ A: Progredir iterativamente com feedback
+
+
+Q: Na ITIL 4, qual princípio orientador enfatiza o trabalho em equipe entre fronteiras, promovendo visibilidade, confiança e compartilhamento de informações?
+ A: Colaborar e promover a visibilidade
+
+
+Q: Na ITIL 4, qual princípio orientador defende eliminar tudo que não agrega valor, mantendo processos simples, com o mínimo necessário para atingir objetivos?
+ A: Manter de forma simples e prática
+
+
+Q: Na ITIL 4, qual princípio orientador incentiva o uso ótimo de recursos, eliminando desperdícios e aplicando automação sempre que possível, deixando a intervenção humana para o que realmente agrega valor?
+ A: Otimizar e automatizar
+Q: Na ITIL 4, qual é o modelo central que mostra como todos os elementos da organização trabalham juntos para transformar demandas e oportunidades em valor?
+ A: Sistema de Valor de Serviço (SVS)
+
+
+Q: Quais são os cinco componentes principais do Sistema de Valor de Serviço (SVS) da ITIL 4?
+ A: Princípios Orientadores, Governança, Cadeia de Valor de Serviço, Práticas, Melhoria Contínua.
+
+
+Q: Na ITIL 4, o que representa a entrada do SVS, relacionada à necessidade ou desejo por produtos e serviços?
+ A: Demanda (Demand)
+
+
+Q: Na ITIL 4, o que representa uma possibilidade de gerar valor ou melhorar a organização dentro do SVS?
+ A: Oportunidade (Opportunity)
+
+
+Q: Na ITIL 4, qual elemento do SVS oferece recomendações práticas e universais para orientar decisões e comportamentos em qualquer situação organizacional?
+ A: Princípios Orientadores
+
+
+Q: Na ITIL 4, qual elemento do SVS é responsável por dirigir, supervisionar e controlar a organização, garantindo alinhamento com políticas e objetivos estratégicos?
+ A: Governança
+
+
+Q: Na ITIL 4, qual elemento do SVS organiza e conecta as atividades essenciais para transformar demanda em valor?
+ A: Cadeia de Valor de Serviço
+
+
+Q: Na ITIL 4, qual elemento do SVS consiste em recursos organizacionais estruturados usados para realizar tarefas específicas ou atingir objetivos?
+ A: Práticas
+
+
+Q: Na ITIL 4, qual elemento do SVS representa uma atividade constante para garantir a evolução dos serviços, promovendo adaptação e inovação contínuas?
+ A: Melhoria Contínua
+
+
+Q: Na ITIL 4, qual é a saída final do SVS, representando o resultado percebido pelo cliente com base em utilidade e garantia?
+ A: Valor
+
+
+Q: Na álgebra relacional, como são classificadas as operações quanto ao seu nível de complexidade e combinação?
+ A: Em operações primitivas e adicionais.
+
+
+Q: Quais são as operações primitivas da álgebra relacional?
+ A: Seleção (σ), Projeção (π), Produto cartesiano (×), Diferença (−), União (∪), Renomeação (ρ).
+
+
+Q: Quais são as operações adicionais da álgebra relacional?
+ A: JADI! Junção (⋈), Atribuição (←), Divisão (÷), Interseção (∩)
+
+
+Q: A operação de seleção (σ) pertence a qual tipo de operador da álgebra relacional?
+ A: Primitivo.
+
+
+Q: A operação de projeção (π) pertence a qual tipo de operador da álgebra relacional?
+ A: Primitivo.
+
+
+Q: A operação de produto cartesiano (×) pertence a qual tipo de operador da álgebra relacional?
+ A: Primitivo.
+
+
+Q: A operação de diferença (−) pertence a qual tipo de operador da álgebra relacional?
+ A: Primitivo.
+
+
+Q: A operação de união (∪) pertence a qual tipo de operador da álgebra relacional?
+ A: Primitivo.
+
+
+Q: A operação de renomeação (ρ) pertence a qual tipo de operador da álgebra relacional?
+ A: Primitivo.
+
+
+Q: A operação de interseção (∩) pertence a qual tipo de operador da álgebra relacional?
+ A: Adicional.
+
+
+Q: A operação de junção (⋈) pertence a qual tipo de operador da álgebra relacional?
+ A: Adicional.
+
+
+Q: A operação de divisão (÷) pertence a qual tipo de operador da álgebra relacional?
+ A: Adicional.
+
+
+Q: A operação de atribuição (←) pertence a qual tipo de operador da álgebra relacional?
+ A: Adicional.
+
+
